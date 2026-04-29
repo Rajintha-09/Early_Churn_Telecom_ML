@@ -25,14 +25,14 @@ The project combines predictive modeling with customer segmentation to generate 
 ```
 Early_Churn_Telecom_ML/
 │
-├── Research Paper/
-│ └── Research_Paper.pdf
+├── Model/
+│ └── model_ML.html
 │
 ├── Dataset/
 │ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
-├── Model/
-│ └── model_ML.html
+├──Research Paper/
+│ └── Research_Paper.pdf
 │
 └── README.md
 ```
